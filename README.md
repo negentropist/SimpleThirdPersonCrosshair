@@ -10,9 +10,13 @@ A high-performance, **ray-casted crosshair** system for Arma Reforger. This mod 
 
 ## 🚀 Key Features
 
-* **Real-time Ray-casting**: Dynamically adjusts the crosshair position based on where your weapon is actually pointing.
-* **Performance Oriented**: Written in Enforce Script (C# equivalent) with optimization in mind.
-* **Seamless Integration**: Designed specifically for the Enfusion Engine.
+* **Toggle 3PP Aiming**: Easily switch the crosshair on or off.
+* **Opacity Control**: Includes a dedicated slider to adjust the crosshair visibility to your preference.
+* **Smart Immersion**: 
+    * Automatically hides when your weapon is lowered.
+    * Only active in Third-Person Perspective (3PP) to maintain first-person immersion.
+* **Dynamic Depth Effect**: The crosshair size scales based on the raycast hit distance, giving a natural sense of depth.
+* **Line of Fire Feedback**: The crosshair **turns red** if your line of fire is obstructed by an object.
 
 ## 📥 Installation & Workshop
 
