@@ -4,7 +4,9 @@
 ![Enfusion Engine](https://img.shields.io/badge/Engine-Enfusion-blue?style=for-the-badge)
 ![Downloads](https://img.shields.io/badge/Downloads-70k%2B-green?style=for-the-badge)
 
-A high-performance, **ray-casted crosshair** system for Arma Reforger. This mod ensures your aim is always accurate by calculating the real point of impact in a third-person perspective.
+<img width="1152" height="648" alt="image" src="https://github.com/user-attachments/assets/8a632ddd-280c-4f38-a89b-9e95c78ab68c" />
+
+A high-performance, **ray-casted crosshair** system for Arma Reforger. This mod ensures your aim is always accurate by calculating the real point of impact in a third-person perspective, and enables aiming in third-person.
 
 ---
 
